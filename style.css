@@ -2,7 +2,15 @@ body {
     background-color: orange;
 }
 
-section {
+.orange {
     background-color: blueviolet;
     text-align: center;
+}
+
+#purple {
+    background-color: aquamarine
+}
+
+.scott {
+    background-color: bisque
 }
